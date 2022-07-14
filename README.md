@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Moaz Adel
-- 👀 I’m interested in android develpment
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by E-mail : moaza30@gmail.com or phone : +201147804040
+Hello, 
+My name is Moaz Adel Abd-elazem Mohamed and i am a flutter developer.
+Willing to improve myself and learn new things.
 
-<!---
-moaza30/moaza30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Graduadted from Misr University for Science and Technology in IT field.
+email: Mooaz.adel99@gmail.com
+phone: 01147804040
